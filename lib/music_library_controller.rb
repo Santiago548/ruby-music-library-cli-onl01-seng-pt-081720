@@ -23,4 +23,28 @@ class MusicLibraryController
     input = gets.strip
 
   end
+
+  def list_songs
+
+  end
+
+  def list_artists
+
+  end
+
+  def list_genres
+
+  end
+
+  def list_songs_by_artist
+
+  end
+
+  def list_songs_by_genre
+
+  end
+
+  def play_song
+
+  end
 end
